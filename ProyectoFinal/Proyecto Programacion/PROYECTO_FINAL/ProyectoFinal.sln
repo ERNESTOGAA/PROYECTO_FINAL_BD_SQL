@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexionCSharpconMySQL", "ConexionCSharpconMySQL.csproj", "{B693D7EE-96F3-4448-B9ED-7D4D9126FC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFInal", "ProyectoFInal.csproj", "6BE52D5D-5C6D-4FB2-BBBC-3A86EE104213"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B693D7EE-96F3-4448-B9ED-7D4D9126FC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B693D7EE-96F3-4448-B9ED-7D4D9126FC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B693D7EE-96F3-4448-B9ED-7D4D9126FC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B693D7EE-96F3-4448-B9ED-7D4D9126FC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		6BE52D5D-5C6D-4FB2-BBBC-3A86EE104213.Debug|Any CPU.Build.0 = Debug|Any CPU
+		6BE52D5D-5C6D-4FB2-BBBC-3A86EE104213.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		6BE52D5D-5C6D-4FB2-BBBC-3A86EE104213.Release|Any CPU.Build.0 = Release|Any CPU
+		6BE52D5D-5C6D-4FB2-BBBC-3A86EE104213.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
